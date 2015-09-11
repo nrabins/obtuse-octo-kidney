@@ -1,0 +1,7 @@
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Core\bin\Debug\SharpEcho.Recruiting.SpellChecker.Core.dll
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Core\bin\Debug\SharpEcho.Recruiting.SpellChecker.Core.pdb
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Core\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.dll
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Core\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.pdb
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Core\obj\Debug\SharpEcho.Recruiting.SpellChecker.Core.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Core\obj\Debug\SharpEcho.Recruiting.SpellChecker.Core.dll
+C:\Users\Nathan\Documents\Visual Studio 2015\Projects\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Core\obj\Debug\SharpEcho.Recruiting.SpellChecker.Core.pdb
